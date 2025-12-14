@@ -1,9 +1,9 @@
 # MediTrack System Specification
 
-Version: 1.0
-Status: Proposed
-Last Updated: 14/12/2025
-Maintainers: Sudhanshu
+- Version: 1.0
+- Status: Proposed
+- Last Updated: 14/12/2025
+- Maintainers: Sudhanshu
 
 ## 1. Purpose
 This document defines all fixed contracts for the MediTrack Clinic & Appointment Management System.
